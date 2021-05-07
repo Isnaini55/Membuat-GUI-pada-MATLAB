@@ -1,4 +1,4 @@
-# Membuat-GUI-pada-MATLAB
+# UTS Pengolahan Citra (Membuat-GUI-pada-MATLAB)
 
 ~~~
 Nama        : Isnaini Rizkyana
